@@ -1,4 +1,4 @@
-### Halo Teman, Saya Akhsel 👋
+### Yo, Saya Akhsel
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhsell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
