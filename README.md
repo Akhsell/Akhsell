@@ -17,7 +17,7 @@
 | Version Control System | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) | -->
 
 ### 📚 Currently Learning:
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)]  [![Inertia.js](https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff)] ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)] [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)] [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)] [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)]
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 
 <div align="center">
 
@@ -25,9 +25,9 @@
 
 <table>
   <tr>
-    <td>
+   <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Akhsell&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Akhsel's GitHub Stats" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhsell&layout=compact&theme=radical" alt="Top Langs" />
     </td>
