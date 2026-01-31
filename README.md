@@ -32,11 +32,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhsell&layout=compact&theme=radical" alt="Top Langs" />
     </td>
   </tr>
-  <tr>
+ <!-- <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhsell&theme=radical" alt="Profile Summary Card" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 </div>
